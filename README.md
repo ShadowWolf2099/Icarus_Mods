@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Capatible with the latest Icarus version.
+Compatible with the latest Icarus version.
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
