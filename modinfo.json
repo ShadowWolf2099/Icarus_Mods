@@ -1,0 +1,17 @@
+{
+  "mods": [
+    {
+      "name": "SW2099_Picket_Fences_v1_w136_P",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w136",
+      "description": "Refined Stained Wood Fences",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w136/laanp-Combined_QOL_v1_w136_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099_Picket_Fences.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099-Picket_Fences.md"
+    }
+  ]
+}
+
