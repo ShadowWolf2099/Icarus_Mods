@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with the latest Icarus version.
+Capatible with the latest Icarus version.
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -17,6 +17,10 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ShadowWolf2099 Mods:
 -------------------------------------------------------------------------------
 ### SW2099_Picket_Fences_v1_w136_P.pak
+- New craftable building parts 
+- These refined wood Fences are all made of Cherry, Grey, and Normal Stain.
+
+### SW2099_Interior_Wood_Stained_v1_w137_P.pak
 - New craftable building parts 
 - These refined wood walls are all made of Cherry Stained.
 
