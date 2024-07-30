@@ -16,13 +16,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ShadowWolf2099 Mods:
 -------------------------------------------------------------------------------
-### SW2099_Picket_Fences_v1_w136_P.pak
+### SW2099_Picket_Fences_v1_w138_P.pak
 - New craftable building parts 
 - These refined wood Fences are all made of Cherry, Grey, and Normal Stain.
 
-### SW2099_Interior_Wood_Stained_v1_w137_P.pak
+### SW2099_Interior_Wood_Stained_v1_w138_P.pak
 - New craftable building parts 
-- These refined wood walls are all made of Cherry Stained.
+- These refined wood pieces are all made of Cherry Stained.
 
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
@@ -37,3 +37,4 @@ ShadowWolf2099 Mods:
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
 - Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
    and make sure you acknowledge credit to any contributing modders.
+
