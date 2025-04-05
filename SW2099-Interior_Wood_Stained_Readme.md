@@ -1,8 +1,8 @@
-SW2099-Interior_Wood_Stained_v1_w140_P.pak
+SW2099-Interior_Wood_Stained_v1_w74_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.15.125691 (Week: 140)
+Compatible with Icarus Version: Rev. 2.2.15.125691 (Week: 174)
 
 ## Description:
 - SW2099 Interior Walls Stained
