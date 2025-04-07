@@ -1,8 +1,8 @@
-SW2099-No_Weather_v1_w176_P.pak
+SW2099-No_Weather_v1_w177_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 176)
+Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 177)
 
 ## Description:
 Completely removes all weather from the game, sunny all the time!
@@ -48,6 +48,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
    and make sure you acknowledge credit to any contributing modders.
+
+
 
 
 
