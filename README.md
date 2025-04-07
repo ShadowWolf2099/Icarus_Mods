@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 174)
+Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 175)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -11,26 +11,25 @@ regarding the modding community for the game!
 
 To download the *.pak file, click on "Latest" Release button to the right of this page.
 
+-------------------------------------------------------------------------------
 ## Mods Available:
-
 -------------------------------------------------------------------------------
-ShadowWolf2099 Mods:
--------------------------------------------------------------------------------
-### SW2099-Door_Frame_Teleporter_v1_w174_P.pak
+### SW2099-Door_Frame_Teleporter_v1_w175_P.pak
 - A teleporter that gets your across the map
 - A cool looking frame doorway!
 
-### SW2099-No_Weather_v1_w174_P.pak
+### SW2099-No_Weather_v1_w175_P.pak
 - Completely removes all weather from the game, sunny all the time!
 
-### SW2099-Ranger_Station_v1_w174_P.pak
+### SW2099-Ranger_Station_v1_w175_P.pak
 - Complete ranger station with beacon
 - New craftable item at the Character level
 
-### SW2099-Weapons_Bench_v1_w174_P.pak
+### SW2099-Weapons_Bench_v1_w175_P.pak
 - New Weapons Bench with all your favourite firearms
 - New craftable item at the Character level
 
+-------------------------------------------------------------------------------
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
 - Use at your own risk.
@@ -42,8 +41,8 @@ ShadowWolf2099 Mods:
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
-- Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
-   and make sure you acknowledge credit to any contributing modders.
+
+
 
 
 
