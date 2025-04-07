@@ -1,5 +1,53 @@
 {
   "mods": [
+    {
+      "name": "SW2099-Door_Frame_Teleporter",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w174",
+      "description": "A teleporter that gets your across the map",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w174/SW2099-Door_Frame_Teleporter_v1_w174_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Door_Frame_Teleporter_Readme.md"
+    },
+    {
+      "name": "SW2099-No_Weather",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w174",
+      "description": "Completely removes all weather from the game, sunny all the time!",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w174/SW2099-No_Weather_v1_w174_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-No_Weather_Readme.md"
+    },
+    {
+      "name": "SW2099-Ranger_Station",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w174",
+      "description": "Complete ranger station with beacon",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w174/SW2099-Ranger_Station_v1_w174_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Ranger_Station_Readme.md"
+    },
+    {
+      "name": "SW2099-Weapons_Bench",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w174",
+      "description": "New Weapons Bench craftable in the character inventory.",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w174/SW2099-Weapons_Bench_v1_w174_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Weapons_Bench_Readme.md"
+    }
   ]
 }
 
