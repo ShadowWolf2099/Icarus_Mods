@@ -1,8 +1,8 @@
-SW2099-No_Weather_v1_w177_P.pak
+SW2099-No_Weather_v1_w174_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 177)
+Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 174)
 
 ## Description:
 Completely removes all weather from the game, sunny all the time!
@@ -39,64 +39,24 @@ if the ...\mods directory does not exist, create it.
 Use the exact same mods on both server and client machine or else run the risk of weird stuff happening.
 Usually the server settings/mods will override anything running on the local client machine(s), but match the mods to stay out of trouble.
 
+
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
 - Use at your own risk.
-- This mod was designed as standalone, and may not be compatible with other mods.
-- Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible 
-    with Week 77 Icarus release.  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
-- Feel free to drop me any ideas for mod changes/suggestions.
+- This mod may not be compatible with other mods, refer to the Mod Details for further mod information, and "laanp_mod_compatibility_matrix.pdf". 
+- Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w84_ in the mod file name means mod is compatible with Week 84 Icarus release.  
+  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
+- Some mods change inventory/bench/storage cabinets slot sizes, as well as slot stack sizes.  
+  If you have a prospect with these mods running, and had filled extra slot capacities in your inventory/bench/storage cabinets, be warned that loading this prospect without the mods will result in some lost material and resources. 
+- Feel free to drop me any ideas for mod changes/suggestions, or custom mod requests.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
-   and make sure you acknowledge credit to any contributing modders.
 
+## How To Contact Me:
 
+- Discord: shadowwolf2099
+- Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Enjoy Prospectors!
 
 
 
