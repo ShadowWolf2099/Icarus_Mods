@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 177)
+Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 174)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -14,20 +14,8 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ## Mods Available:
 -------------------------------------------------------------------------------
-### SW2099-Door_Frame_Teleporter_v1_w177_P.pak
-- A teleporter that gets your across the map
-- A cool looking frame doorway!
-
-### SW2099-No_Weather_v1_w177_P.pak
+### SW2099-No_Weather_v1_w174_P.pak
 - Completely removes all weather from the game, sunny all the time!
-
-### SW2099-Ranger_Station_v1_w177_P.pak
-- Complete ranger station with beacon
-- New craftable item at the Character level
-
-### SW2099-Weapons_Bench_v1_w177_P.pak
-- New Weapons Bench with all your favourite firearms
-- New craftable item at the Character level
 
 -------------------------------------------------------------------------------
 ## Disclaimer
@@ -41,6 +29,8 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
+
 
 
 
