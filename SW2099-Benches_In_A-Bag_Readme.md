@@ -8,7 +8,6 @@ Compatible with Icarus Version: Rev. 2.2.51.135901 (Week: 176)
 Deployable Scaled Down Benches For Tight Spaces. All Benches Are Working And Should Suit Your Needs.
 Listed Below Are Benches In This MOD.
 
-## Mod Details:
 Crafting Bench
 Machining Bench
 Carpentry Bench
@@ -17,6 +16,9 @@ Cement Mixer
 Anvil Bench
 Glassworking Bench
 Rustic_Decoration Bench
+
+## Mod Details:
+Miniature versions of benches that will help you start your game in style.
 
 ## Installation Details
 
