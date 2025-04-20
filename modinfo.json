@@ -4,13 +4,25 @@
       "name": "SW2099-No_Weather",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w174",
+      "compatibility": "w176",
       "description": "Completely removes all weather from the game, sunny all the time!",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w174/SW2099-No_Weather_v1_w174_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w176/SW2099-No_Weather_v1_w176_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-No_Weather.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-No_Weather_Readme.md"
+    },
+    {
+      "name": "SW2099-Benches_In_A-Bag",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w176",
+      "description": "Deployable Scaled Down Benches For Tight Spaces. All Benches Are Working And Should Suit Your Needs.Listed Below Are Benches In This MOD.",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w176/SW2099-Benches_In_A-Bag_v1_w176_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Benches_In_A-Bag_Readme.md"
     }
   ]
 }
