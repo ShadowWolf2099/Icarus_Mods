@@ -1,16 +1,15 @@
-SW2099-No_Weather_v1_w178_P.pak
+SW2099-Well_v1_w178_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 2.2.53.136221 (Week: 178)
 
 ## Description:
-Completely removes all weather from the game, sunny all the time!
-
+Introduces a new item called `SW2099 Well` which is craftable in the character inventory and provides a water flow connection for your base.
+ 
 ## Mod Details:
-- Completely removes all weather and forecast system from the game.
-- Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
-- Can be used with all other mods, as long as they do not modify any of the weather json files.
+- Connects to any existing water network providing a 25,000 flow rate for unlimited water with no electricity required.
+
 
 ## Installation Details
 
@@ -57,6 +56,81 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
