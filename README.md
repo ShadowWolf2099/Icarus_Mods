@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 2.2.51.135901 (Week: 176)
+Compatible with Icarus Version: Rev. 2.2.53.136221 (Week: 178)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -14,11 +14,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ## Mods Available:
 -------------------------------------------------------------------------------
-### SW2099-No_Weather_v1_w176_P.pak
+### SW2099-No_Weather_v1_w178_P.pak
 - Completely removes all weather from the game, sunny all the time!
 
-### SW2099-Benches_In_A_Bag_v1_w176_P.pak
 - Deployable Scaled Down Assorted Benches For Tight Spaces.
+
+### SW2099-Well_v1_w178_P.pak
+- Connects to any existing water network providing a 25,000 flow rate for unlimited water with no electricity required.
 
 -------------------------------------------------------------------------------
 ## Disclaimer
@@ -32,6 +34,8 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
+
 
 
 
