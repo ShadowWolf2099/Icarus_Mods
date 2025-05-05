@@ -17,6 +17,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ### SW2099-No_Weather_v1_w178_P.pak
 - Completely removes all weather from the game, sunny all the time!
 
+### SW2099-Benches_In_A_Bag_v1_w178
 - Deployable Scaled Down Assorted Benches For Tight Spaces.
 
 ### SW2099-Well_v1_w178_P.pak
