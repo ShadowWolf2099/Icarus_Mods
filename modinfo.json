@@ -4,10 +4,10 @@
       "name": "SW2099-Benches_In_A_Bag",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w188",
+      "compatibility": "w189",
       "description": "Deployable Scaled Down Benches For Tight Spaces. All Benches Are Working And Should Suit Your Needs.Listed Below Are Benches In This MOD.",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w188/SW2099-Benches_In_A_Bag_v1_w188_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w189/SW2099-Benches_In_A_Bag_v1_w189_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Benches_In_A_Bag.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Benches_In_A_Bag_Readme.md"
@@ -16,10 +16,10 @@
       "name": "SW2099-Well",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w188",
+      "compatibility": "w189",
       "description": "Introduces a new item called `SW2099 Well` which is craftable in the character inventory and provides a water flow connection for your base.",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w188/SW2099-Well_v1_w188_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w189/SW2099-Well_v1_w189_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Well.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Well_Readme.md"
@@ -28,13 +28,25 @@
       "name": "SW2099-Ranger_Station_Buildable",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w188",
+      "compatibility": "w189",
       "description": "Fast travel Ranger Station Buildable with the ability to fly like Superman from station to station.",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w188/SW2099-Ranger_Station_Buildable_v1_w188_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w189/SW2099-Ranger_Station_Buildable_v1_w189_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Ranger_Station_Buildable.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Ranger_Station_Buildable_Readme.md"
+    },
+    {
+      "name": "SW2099-Thatch_Wood_Glass_Stability",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w189",
+      "description": "",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w189/SW2099-Thatch_Wood_Glass_Stability_v1_w189_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Thatch_Wood_Glass_Stability.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Thatch_Wood_Glass_Stability_Readme.md"
     }
   ]
 }
