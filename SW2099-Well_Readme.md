@@ -1,8 +1,8 @@
-SW2099-Well_v1_w188_P.pak
+SW2099-Well_v1_w189_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.63.139765 (Week: 188)
+Compatible with Icarus Version: Rev. 2.3.0.140125 (Week: 189)
 
 ## Description:
 Introduces a new item called `SW2099 Well` which is craftable in the character inventory and provides a water flow connection for your base.
@@ -56,6 +56,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
