@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 2.3.0.140125 (Week: 189)
+Compatible with Icarus Version: Rev. 2.3.1.140342 (Week: 190)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -14,13 +14,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ## Mods Available:
 -------------------------------------------------------------------------------
-### SW2099-Benches_In_A_Bag_v1_w189_P.pak
+### SW2099-Benches_In_A_Bag_v1_w190_P.pak
 - Deployable Scaled Down Assorted Benches For Tight Spaces.
 
-### SW2099-Well_v1_w189_P.pak
+### SW2099-Well_v1_w190_P.pak
 - Connects to any existing water network providing a 25,000 flow rate for unlimited water with no electricity required.
 
-### SW2099-Ranger_Station_Buildable_v1_w189_P.pak
+### SW2099-Ranger_Station_Buildable_v1_w190_P.pak
 - Fast travel Ranger Station Buildable with the ability to fly like Super-Man from station to station.
 - Hit "R" Key for build variations.
 - Point the cursor at any Ranger Station and the: 
@@ -28,7 +28,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Right Mouse Button - Fly to the bottom of the Ranger Station
   - The ability to travel (Fly) WILL NOT WORK on server, but you can still climb the stairs like normal.
 
-### SW2099-Thatch_Wood_Glass_Stability_v1_w189_P.pak
+### SW2099-Thatch_Wood_Glass_Stability_v1_w190_P.pak
 - Great for building your camp and not worrying about storms and animal attacks.
 - Increased Stability.
 - Increased Durability to 50,000.
@@ -48,6 +48,8 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
+
 
 
 
