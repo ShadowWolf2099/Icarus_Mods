@@ -1,14 +1,14 @@
-SW2099-Ranger_Station_Buildable_v1_w189_P.pak
+SW2099-Ranger_Station_Buildable_v1_w190_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.0.140125 (Week: 189)
+Compatible with Icarus Version: Rev. 2.3.1.140342 (Week: 190)
 
 ## Description:
 Fast travel Ranger Station Buildable with the ability to fly like Superman from station to station.
 
 ## Mod Details:
-- This is a Single Player MOD Only, Not supported on Hosted or Deticated Server.
+- This is a Single Player MOD Only, Not supported on Hosted or Dedicated Server.
 - New craftable item at the Character level for Free, called "SW2099's Ranger Station"
 - Hit "R" Key for build variations.
 - Point the cursor at any Ranger Station and the: 
@@ -62,6 +62,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
