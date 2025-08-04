@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 2.3.1.140342 (Week: 190)
+Compatible with Icarus Version: Rev. 2.3.2.140630 (Week: 191)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -14,13 +14,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ## Mods Available:
 -------------------------------------------------------------------------------
-### SW2099-Benches_In_A_Bag_v1_w190_P.pak
+### SW2099-Benches_In_A_Bag_v1_w191_P.pak
 - Deployable Scaled Down Assorted Benches For Tight Spaces.
 
-### SW2099-Well_v1_w190_P.pak
+### SW2099-Well_v1_w191_P.pak
 - Connects to any existing water network providing a 25,000 flow rate for unlimited water with no electricity required.
 
-### SW2099-Ranger_Station_Buildable_v1_w190_P.pak
+### SW2099-Ranger_Station_Buildable_v1_w191_P.pak
 - Fast travel Ranger Station Buildable with the ability to fly like Super-Man from station to station.
 - Hit "R" Key for build variations.
 - Point the cursor at any Ranger Station and the: 
@@ -28,13 +28,19 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Right Mouse Button - Fly to the bottom of the Ranger Station
   - The ability to travel (Fly) WILL NOT WORK on server, but you can still climb the stairs like normal.
 
-### SW2099-Thatch_Wood_Glass_Stability_v1_w190_P.pak
+### SW2099-Thatch_Wood_Glass_Stability_v1_w191_P.pak
 - Great for building your camp and not worrying about storms and animal attacks.
 - Increased Stability.
 - Increased Durability to 50,000.
 - Trees falls will damage materials.
 - Shotguns and Rifles will damage materials.
 - All other damge whould be 1 point each.
+
+### SW2099-Winter_Biome_Starter_Bench_v2_w191_P.pak
+- New Winter Bench that contains 3 starter kits to help you start stress free in the Icarus winter biomes.
+- 500 Stack Size.
+- Weight reduced to 0 on most items.
+- Plants grow faster when watered.
 
 -------------------------------------------------------------------------------
 ## Disclaimer
@@ -48,6 +54,8 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
+
 
 
 
