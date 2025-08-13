@@ -1,20 +1,14 @@
-SW2099-Modules_v1_w192_P.pak
+SW2099-Winter_Biome_Starter_Bench_v1_w192_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 2.3.3.140683 (Week: 192)
 
 ## Description:
-Four custom Modules: Resource Smasher, Stamina, Speedster, Speed Leveler
-
+- SW2099 Winter Biome Starter Bench
+ 
 ## Mod Details:
-- These modules can be researched/purchased for FREE in the Workshop under New Group called "Shadow Wolfs 2099's Modules".
-- When placed in auxiliary slots of suit you get the following upgrades:
-  - Resource Smasher - One hit wonder on all ores.
-  - Stamina - Never run out of stamina again.
-  - Speedster - Run and Swim 300% faster.
-  - Speed Leveler - Level at incredible speed.
-- Simply remove the module from your envirosuit auxiliary slot, to neutralize the effects.
+New Winter Bench that contains 3 starter kits to help you start stress free in the Icarus winter biomes
 
 
 ## Installation Details
@@ -62,33 +56,6 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
