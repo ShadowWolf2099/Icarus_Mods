@@ -1,19 +1,19 @@
-SW2099-Thatch_Wood_Glass_Stability_v1_w194_P.pak
+SW2099-Steel_Bundle_v1_w194_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 2.3.5.141257 (Week: 194)
 
 ## Description:
-- Icrease the stability of Thatch, Wood, and Glass
+- SW2099 Steel Bundle
  
 ## Mod Details:
-- Great for building your camp and not worrying about storms and animal attacks.
-- Increased Stability.
-- Increased Durability to 50,000
-- Trees falls will damage materials.
-- Shotguns and Rifles will damage materials
-- All other damge whould be 1 point each.
+- New Collection of Black Steel Buildables at the Character level for Free, called "SW2099's Steel Bundle"
+- Stronger Than Concrete
+- New Steel Floors
+- New Steel Walls
+- New Steel Structures
+- New Steel Roofs
 
 ## Installation Details
 
@@ -60,86 +60,6 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

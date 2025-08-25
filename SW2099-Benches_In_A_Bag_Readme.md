@@ -1,8 +1,8 @@
-SW2099-Benches_In_A_Bag_v1_w193_P.pak
+SW2099-Benches_In_A_Bag_v1_w194_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.4.140913 (Week: 193)
+Compatible with Icarus Version: Rev. 2.3.5.141257 (Week: 194)
 
 ## Description:
 Deployable Scaled Down Benches For Tight Spaces. All Benches Are Working And Should Suit Your Needs.
