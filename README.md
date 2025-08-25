@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 2.3.4.140913 (Week: 193)
+Compatible with Icarus Version: Rev. 2.3.5.141257 (Week: 194)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -58,6 +58,14 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Animal Trap is almost indestructible.
 - Will protect you from all predators except animals with projectile defenses.
 
+### SW2099-Steel_Bundle_v1_w193_P.pak
+- New Collection of Black Steel Buildables at the Character level for Free, called "SW2099's Steel Bundle"
+- Stronger Than Concrete
+- New Steel Floors
+- New Steel Walls
+- New Steel Structures
+- New Steel Roofs
+
 -------------------------------------------------------------------------------
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
@@ -70,6 +78,8 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
+
 
 
 
