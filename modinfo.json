@@ -83,6 +83,18 @@
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Animal_Trap.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Animal_Trap_Readme.md"
+    },
+    {
+      "name": "SW2099-Steel_Bundle",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w193",
+      "description": "- SW2099 Steel Bundle",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w193/SW2099-Steel_Bundle_v1_w193_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Steel_Bundle.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Steel_Bundle_Readme.md"
     }
   ]
 }
