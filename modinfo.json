@@ -89,7 +89,7 @@
       "author": "ShadowWolf2099",
       "version": "1.0",
       "compatibility": "w195",
-      "description": "- SW2099 Steel Bundle",
+      "description": "SW2099 Steel Bundle",
       "files": {
         "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w195/SW2099-Steel_Bundle_v1_w195_P.pak"
       },
@@ -101,7 +101,7 @@
       "author": "ShadowWolf2099",
       "version": "1.0",
       "compatibility": "w195",
-      "description": "",
+      "description": "Changes the Interior Wood in the Game to a Weathered Grey Look.",
       "files": {
         "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w195/SW2099-Weathered_Wood_v1_w195_P.pak"
       },
@@ -110,4 +110,5 @@
     }
   ]
 }
+
 
