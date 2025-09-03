@@ -1,8 +1,8 @@
-SW2099-Winter_Biome_Starter_Bench_v1_w194_P.pak
+SW2099-Winter_Biome_Starter_Bench_v1_w195_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.5.141257 (Week: 194)
+Compatible with Icarus Version: Rev. 2.3.6.141490 (Week: 195)
 
 ## Description:
 - SW2099 Winter Biome Starter Bench
@@ -56,6 +56,10 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
