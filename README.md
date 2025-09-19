@@ -14,6 +14,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ## Mods Available:
 -------------------------------------------------------------------------------
+### SW2099-Benches_In_A_Bag_v1_w198_P.pak
 - Deployable Scaled Down Assorted Benches For Tight Spaces.
 
 ### SW2099-Well_v1_w198_P.pak
@@ -41,6 +42,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Weight reduced to 0 on most items.
 - Plants grow faster when watered.
 
+### SW2099-Modules_v1_w198_P.pak
 - These modules can be researched/purchased for FREE in the Workshop under New Group called "Shadow Wolfs 2099's Modules".
 - When placed in auxiliary slots of suit you get the following upgrades:
   - Resource Smasher - One hit wonder on all ores.
@@ -49,6 +51,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Speed Leveler - Level at incredible speed.
 - Simply remove the module from your envirosuit auxiliary slot, to neutralize the effects.
 
+### SW2099-Animal_Trap_v1_w198_P.pak
 - New craftable Buildable at the Character level for Free, called "SW2099's Animal Trap"
 - This is a Buildable and has a Destructive Mesh.
 - This MOD has been tested on servers.
