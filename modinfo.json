@@ -1,6 +1,18 @@
 {
   "mods": [
     {
+      "name": "SW2099-Benches_In_A_Bag",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w198",
+      "description": "Deployable Scaled Down Benches For Tight Spaces. All Benches Are Working And Should Suit Your Needs.",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w198/SW2099-Well_v1_w198_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Benches_In_A_Bag.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Benches_In_A_Bag_Readme.md"
+    },
+    {
       "name": "SW2099-Well",
       "author": "ShadowWolf2099",
       "version": "1.0",
@@ -47,6 +59,30 @@
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Winter_Biome_Starter_Bench.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Winter_Biome_Starter_Bench_Readme.md"
+    },
+    {
+      "name": "SW2099-Modules",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w198",
+      "description": "- Four custom Modules: Resource Smasher, Stamina, Speedster, Speed Leveler",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w198/SW2099-Modules_v1_w198_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Modules.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Modules_Readme.md"
+    },
+    {
+      "name": "SW2099-Animal_Trap",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w198",
+      "description": "- Animal Trap for all animals.",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w198/SW2099-Animal_Trap_v1_w198_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Animal_Trap.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Animal_Trap_Readme.md"
     },
     {
       "name": "SW2099-Steel_Bundle",
