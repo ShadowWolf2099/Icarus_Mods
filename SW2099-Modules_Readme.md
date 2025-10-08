@@ -1,8 +1,8 @@
-SW2099-Modules_v1_w195_P.pak
+SW2099-Modules_v1_w200_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.6.141490 (Week: 195)
+Compatible with Icarus Version: Rev. 2.3.11.142770 (Week: 200)
 
 ## Description:
 Four custom Modules: Resource Smasher, Stamina, Speedster, Speed Leveler
@@ -62,6 +62,12 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
 
 
 
