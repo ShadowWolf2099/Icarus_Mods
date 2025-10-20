@@ -1,8 +1,8 @@
-SW2099-Weapons_Bench_v1_w200_P.pak
+SW2099-Weapons_Bench_v1_w202_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.11.142770 (Week: 200)
+Compatible with Icarus Version: Rev. 2.3.13.143354 (Week: 202)
 
 ## Description:
 - This bench give you most weapons for free!!!
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
