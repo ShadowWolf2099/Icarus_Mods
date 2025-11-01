@@ -89,7 +89,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Item_Dans_Health_Elixir
 - Item_Dans_Frag_Grenade
 
-### SW2099-Pocket_Door_v1_w203_P.pak
+### SW2099-Pocket_Door_v1_w204_P.pak
 - Custom Automatic Pocket Doors
 
 ### SW2099-Bookcase_Door_v1_w204_P.pak
@@ -107,6 +107,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
 
 
 
