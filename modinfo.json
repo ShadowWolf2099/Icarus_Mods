@@ -127,7 +127,7 @@
       "compatibility": "w203",
       "description": "",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w203/SW2099-Pocket_Door_v1_w203_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w204/SW2099-Pocket_Door_v1_w204_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Pocket_Door_Readme.md"
@@ -146,4 +146,5 @@
     }
   ]
 }
+
 
