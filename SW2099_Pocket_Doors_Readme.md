@@ -1,14 +1,14 @@
-SW2099-Bookcase_Door_v1_w203_P.pak
+SW2099-Pocket_Door_v1_w204_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.14.143672 (Week: 203)
+Compatible with Icarus Version: Rev. 2.3.15.143810 (Week: 204)
 
 ## Description:
-Deployable Bookcase Door
+Deployable Automated Pocket Doors
 
 ## Mod Details:
-- Depolyable Bookcase Door
+- Depolyable Automated Pocket Doors
 
 ## Installation Details
 
