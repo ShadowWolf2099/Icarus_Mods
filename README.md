@@ -50,6 +50,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Speed Leveler - Level at incredible speed.
 - Simply remove the module from your envirosuit auxiliary slot, to neutralize the effects.
 
+### SW2099-Animal_Trap_v2_w205_P.pak
 - New craftable Buildable at the Character level for Free, called "SW2099's Animal Trap"
 - This is a Buildable and has a Destructive Mesh.
 - This MOD has been tested on servers.
@@ -88,10 +89,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Item_Dans_Health_Elixir
 - Item_Dans_Frag_Grenade
 
+### SW2099-Pocket_Doors_v1_w205_P.pak
 - Custom Automatic Pocket Doors
 
+### SW2099-Bookcase_Door_v2_w205_P.pak
 - Custom Automatic Hidden Bookcase Doors
 
+### SW2099-Fortificaton_Gate_v2_w205_P.pak
 - Custom Automatic Fortification Gate
 -------------------------------------------------------------------------------
 ## Disclaimer
