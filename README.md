@@ -42,7 +42,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Weight reduced to 0 on most items.
 - Plants grow faster when watered.
 
-### SW2099-Modules_v1_w205_P.pak
+### SW2099-Modules_v1_w206_P.pak
 - These modules can be researched/purchased for FREE in the Workshop under New Group called "Shadow Wolfs 2099's Modules".
 - When placed in auxiliary slots of suit you get the following upgrades:
   - Resource Smasher - One hit wonder on all ores.
@@ -115,6 +115,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
 
 
 
