@@ -1,8 +1,8 @@
-SW2099-Orb_Light_Deployable_v1_w205_P.pak
+SW2099-Orb_Light_Deployable_v1_w206_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.16.144156 (Week: 205)
+Compatible with Icarus Version: Rev. 2.3.17.144813 (Week: 206)
 
 ## Description:
 - Custom floor torch with an option for a floatable Glowing Orb Light
@@ -59,6 +59,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
