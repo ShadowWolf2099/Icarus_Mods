@@ -1,13 +1,25 @@
 {
   "mods": [
     {
+      "name": "SW2099-Benches_In_A_Bag",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w206",
+      "description": "Deployable Scaled Down Benches For Tight Spaces. All Benches Are Working And Should Suit Your Needs.Listed Below Are Benches In This MOD.",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Benches_In_A_Bag_v1_w206_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Benches_In_A_Bag.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Benches_In_A_Bag_Readme.md"
+    },
+    {
       "name": "SW2099-Well",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "Introduces a new item called `SW2099 Well` which is craftable in the character inventory and provides a water flow connection for your base.",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Well_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Well_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Well.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Well_Readme.md"
@@ -16,10 +28,10 @@
       "name": "SW2099-Ranger_Station_Buildable",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "Fast travel Ranger Station Buildable with the ability to fly like Superman from station to station.",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Ranger_Station_Buildable_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Ranger_Station_Buildable_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Ranger_Station_Buildable.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Ranger_Station_Buildable_Readme.md"
@@ -28,10 +40,10 @@
       "name": "SW2099-Thatch_Wood_Glass_Stability",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Thatch_Wood_Glass_Stability_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Thatch_Wood_Glass_Stability_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Thatch_Wood_Glass_Stability.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Thatch_Wood_Glass_Stability_Readme.md"
@@ -40,10 +52,10 @@
       "name": "SW2099-Winter_Biome_Starter_Bench",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "- SW2099 Winter Biome Starter Bench",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Winter_Biome_Starter_Bench_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Winter_Biome_Starter_Bench_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Winter_Biome_Starter_Bench.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Winter_Biome_Starter_Bench_Readme.md"
@@ -61,13 +73,25 @@
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Modules_Readme.md"
     },
     {
+      "name": "SW2099-Animal_Trap",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w206",
+      "description": "Animal Trap for all animals",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Animal_Trap_v1_w206_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Animal_Trap.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Animal_Trap_Readme.md"
+    },
+    {
       "name": "SW2099-Steel_Bundle",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "- SW2099 Steel Bundle",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Steel_Bundle_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Steel_Bundle_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Steel_Bundle.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Steel_Bundle_Readme.md"
@@ -76,10 +100,10 @@
       "name": "SW2099-Weathered_Wood",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Weathered_Wood_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Weathered_Wood_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Weathered_Wood.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Weathered_Wood_Readme.md"
@@ -88,10 +112,10 @@
       "name": "SW2099-Weapons_Bench",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "- This bench give you most weapons for free!!!",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Weapons_Bench_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Weapons_Bench_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Weapons_Bench.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Weapons_Bench_Readme.md"
@@ -100,10 +124,10 @@
       "name": "SW2099-Orb_Light_Deployable",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "- Custom floor torch with an option for a floatable Glowing Orb Light",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Orb_Light_Deployable_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Orb_Light_Deployable_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Orb_Light_Deployable.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Orb_Light_Deployable_Readme.md"
@@ -112,13 +136,73 @@
       "name": "SW2099-Prospector_Dan",
       "author": "ShadowWolf2099",
       "version": "1.0",
-      "compatibility": "w205",
+      "compatibility": "w206",
       "description": "- MOD was develop for Prospector Dan and his journeys as first cohort.",
       "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w205/SW2099-Prospector_Dan_v1_w205_P.pak"
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Prospector_Dan_v1_w206_P.pak"
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Prospector_Dan.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Prospector_Dan_Readme.md"
+    },
+    {
+      "name": "SW2099-Pocket_Doors",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w206",
+      "description": "",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Pocket_Doors_v1_w206_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Pocket_Doors_Readme.md"
+    },
+    {
+      "name": "SW2099-Bookcase_Door",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w206",
+      "description": "Deployable Bookcase Door",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Bookcase_Door_v1_w206_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Bookcase_Door.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Bookcase_Door_Readme.md"
+    },
+    {
+      "name": "SW2099-Fortificaton_Gate",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w206",
+      "description": "Deployable Auto Opening Fortification Gates",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Fortificaton_Gate_v1_w206_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Fortificaton_Gate_Readme.md"
+    },
+    {
+      "name": "SW2099-Habitat_Deployables",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w206",
+      "description": "New Havitat Deployable - SW2099 Habitat Bed.",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Habitat_Deployables_v1_w206_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Habitat_Deployables_Readme.md"
+    },
+    {
+      "name": "SW2099-Habitat",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w206",
+      "description": "- Not compatible on server, YET!!! - Buildable Habitat- Must place the CustomAudio_P.pak file into the mods folder after all mods are combined to hear the custom sounds",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w206/SW2099-Habitat_v1_w206_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Habitat.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Habitat_Readme.md"
     }
   ]
 }
