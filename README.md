@@ -1,6 +1,6 @@
 # ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 2.3.17.144813 (Week: 206)
+Compatible with Icarus Version: Rev. 2.3.20.145714 (Week: 209)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
@@ -14,13 +14,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ## Mods Available:
 -------------------------------------------------------------------------------
-### SW2099-Benches_In_A_Bag_v1_w206_P.pak
+### SW2099-Benches_In_A_Bag_v1_w209_P.pak
 - Deployable Scaled Down Assorted Benches For Tight Spaces.
 
-### SW2099-Well_v1_w206_P.pak
+### SW2099-Well_v1_w209_P.pak
 - Connects to any existing water network providing a 25,000 flow rate for unlimited water with no electricity required.
 
-### SW2099-Ranger_Station_Buildable_v1_w206_P.pak
+### SW2099-Ranger_Station_Buildable_v1_w209_P.pak
 - Fast travel Ranger Station Buildable with the ability to fly like Super-Man from station to station.
 - Hit "R" Key for build variations.
 - Point the cursor at any Ranger Station and the: 
@@ -28,7 +28,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Right Mouse Button - Fly to the bottom of the Ranger Station
   - The ability to travel (Fly) WILL NOT WORK on server, but you can still climb the stairs like normal.
 
-### SW2099-Thatch_Wood_Glass_Stability_v1_w206_P.pak
+### SW2099-Thatch_Wood_Glass_Stability_v1_w209_P.pak
 - Great for building your camp and not worrying about storms and animal attacks.
 - Increased Stability.
 - Increased Durability to 50,000.
@@ -36,13 +36,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Shotguns and Rifles will damage materials.
 - All other damge whould be 1 point each.
 
-### SW2099-Winter_Biome_Starter_Bench_v1_w206_P.pak
+### SW2099-Winter_Biome_Starter_Bench_v1_w209_P.pak
 - New Winter Bench that contains 3 starter kits to help you start stress free in the Icarus winter biomes.
 - 500 Stack Size.
 - Weight reduced to 0 on most items.
 - Plants grow faster when watered.
 
-### SW2099-Modules_v1_w206_P.pak
+### SW2099-Modules_v1_w209_P.pak
 - These modules can be researched/purchased for FREE in the Workshop under New Group called "Shadow Wolfs 2099's Modules".
 - When placed in auxiliary slots of suit you get the following upgrades:
   - Resource Smasher - One hit wonder on all ores.
@@ -51,14 +51,14 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Speed Leveler - Level at incredible speed.
 - Simply remove the module from your envirosuit auxiliary slot, to neutralize the effects.
 
-### SW2099-Animal_Trap_v1_w206_P.pak
+### SW2099-Animal_Trap_v1_w209_P.pak
 - New craftable Buildable at the Character level for Free, called "SW2099's Animal Trap"
 - This is a Buildable and has a Destructive Mesh.
 - This MOD has been tested on servers.
 - Animal Trap is almost indestructible.
 - Will protect you from all predators except animals with projectile defenses.
 
-### SW2099-Steel_Bundle_v1_w206_P.pak
+### SW2099-Steel_Bundle_v1_w209_P.pak
 - New Collection of Black Steel Buildables at the Character level for Free, called "SW2099's Steel Bundle"
 - Stronger Than Concrete
 - New Steel Floors
@@ -66,40 +66,41 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - New Steel Structures
 - New Steel Roofs
 
-### SW2099-Weathered_Wood_v1_w206_P.pak
+### SW2099-Weathered_Wood_v1_w209_P.pak
 - Changes the Interior Wood in the Game to a Weathered Grey Look.
 - Changes all Interior Wood Buildables tan stain to a Weathered piece of lumber.
 - Changes all Medium Interior Crates to a weathered look.
 - Change Reinforced Interior Railing to a weathered look
 - This MOD has been tested on servers.
 
-### SW2099-Weapons_Bench_v1_w206_P.pak
+### SW2099-Weapons_Bench_v1_w209_P.pak
 - Allow the user access to most weapons in the game.
 
-### SW2099-Orb_Light_Deployable_v1_w206_P.pak
+### SW2099-Orb_Light_Deployable_v1_w209_P.pak
 - Custom floor torch with decorative flame that will not burn your house down
 - Optional Orb Light with many option:
   - Adjust Height, Brightness, Ambience, and Color
   - Option to turn all torches from flame to Orb at one time.
 - Will work on single player or server. (On server each person can control the lighting seperatly.)
 
-### SW2099-Prospector_Dan_v1_w206_P.pak
+### SW2099-Prospector_Dan_v1_w209_P.pak
 - MOD was develop for Prospector Dan and his journeys as first cohort.
 - Item_Dans_Smoke_Grenade
 - Item_Dans_Animal_Frenzy_Grenade
 - Item_Dans_Health_Elixir
 - Item_Dans_Frag_Grenade
 
-### SW2099-Pocket_Doors_v1_w206_P.pak
+### SW2099-Pocket_Doors_v1_w209_P.pak
 - Custom Automatic Pocket Doors
 
-### SW2099-Bookcase_Door_v1_w206_P.pak
+### SW2099-Bookcase_Door_v1_w209_P.pak
 - Custom Automatic Hidden Bookcase Doors
 
-### SW2099-Fortificaton_Gate_v1_w206_P.pak
+### SW2099-Fortificaton_Gate_v1_w209_P.pak
 - Custom Automatic Fortification Gate
 
-### SW2099-Habitat_v1_w206_P.pak
+### SW2099-Habitat_Deployables_v1_w209_P.pak
+### SW2099-Habitat_v1_w209_P.pak
 - Not compatible on server, YET!!! 
 - Buildable Habitat
 - Must place the CustomAudio_P.pak file into the mods folder after all mods are combined to hear the custom sounds
