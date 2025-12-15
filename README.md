@@ -14,6 +14,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 ## Mods Available:
 -------------------------------------------------------------------------------
+### SW2099-Benches_In_A_Bag_v1_w210_P.pak
 - Deployable Scaled Down Assorted Benches For Tight Spaces.
 
 ### SW2099-Well_v1_w210_P.pak
@@ -50,6 +51,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Speed Leveler - Level at incredible speed.
 - Simply remove the module from your envirosuit auxiliary slot, to neutralize the effects.
 
+### SW2099-Animal_Trap_v1_w210_P.pak
 - New craftable Buildable at the Character level for Free, called "SW2099's Animal Trap"
 - This is a Buildable and has a Destructive Mesh.
 - This MOD has been tested on servers.
@@ -91,14 +93,18 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ### SW2099-Pocket_Doors_v1_w210_P.pak
 - Custom Automatic Pocket Doors
 
+### SW2099-Bookcase_Door_v1_w210_P.pak
 - Custom Automatic Hidden Bookcase Doors
 
+### SW2099-Fortificaton_Gate_v1_w210_P.pak
 - Custom Automatic Fortification Gate
 
+### SW2099-Habitat_v1_w210_P.pak
 - Not compatible on server, YET!!! 
 - Buildable Habitat
 - Must place the CustomAudio_P.pak file into the mods folder after all mods are combined to hear the custom sounds
 
+### SW2099-Jetpack_v1_w210_P.pak
 - A handy Jetpack for flying around Icarus.
 - Custom Landing Pad
 
@@ -118,6 +124,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
 
 
 
