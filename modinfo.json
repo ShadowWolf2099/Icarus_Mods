@@ -227,6 +227,18 @@
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Light_Switch.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Light_Switch_Readme.md"
+    },
+    {
+      "name": "SW2099-Creature_Deterrent",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w211",
+      "description": "ShadowWolf2099 Creature Deterrent Statue",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w211/SW2099-Creature_Deterrent_v1_w211_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Creature_Deterrent.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Creature_Deterrent_Readme.md"
     }
   ]
 }
