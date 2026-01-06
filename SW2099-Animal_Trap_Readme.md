@@ -1,8 +1,8 @@
-SW2099-Animal_Trap_v1_w212_P.pak
+SW2099-Animal_Trap_v1_w213_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.23.146505 (Week: 212)
+Compatible with Icarus Version: Rev. 2.3.24.146614 (Week: 213)
 
 ## Description:
 Animal Trap for all animals
@@ -59,6 +59,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
