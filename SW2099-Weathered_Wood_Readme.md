@@ -1,11 +1,11 @@
-SW2099-Weathered_Wood_v1_w195.pak
+SW2099-Weathered_Wood_v1_w213_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.6.141490 (Week: 195)
+Compatible with Icarus Version: Rev. 2.3.24.146614 (Week: 213)
 
 ## Description:
-Changes the Interior Wood in the Game to a Weathered Grey Look.
+- Changes the Interior Wood in the Game to a Weathered Grey Look
 
 ## Mod Details:
 - Changes all Interior Wood Buildables tan stain to a Weathered piece of lumber.
