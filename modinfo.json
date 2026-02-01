@@ -181,18 +181,6 @@
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Fortificaton_Gate_Readme.md"
     },
     {
-      "name": "SW2099-Habitat_Deployables",
-      "author": "ShadowWolf2099",
-      "version": "1.0",
-      "compatibility": "w213",
-      "description": "",
-      "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w213/SW2099-Habitat_Deployables_v1_w213_P.pak"
-      },
-      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
-      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Habitat_Deployables_Readme.md"
-    },
-    {
       "name": "SW2099-Habitat",
       "author": "ShadowWolf2099",
       "version": "1.0",
@@ -290,4 +278,5 @@
     }
   ]
 }
+
 
