@@ -99,8 +99,6 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ### SW2099-Fortificaton_Gate_v1_w217_P.pak
 - Custom Automatic Fortification Gate
 
-### SW2099-Habitat_Deployables_v1_w213_P.pak
-### SW2099-Habitat_Deployables_v1_w213_P.pak
 ### SW2099-Habitat_v1_w217_P.pak
 - Not compatible on server, YET!!! 
 - Buildable Habitat
@@ -142,6 +140,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
 
 
 
