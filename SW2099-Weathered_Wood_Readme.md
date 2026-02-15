@@ -1,8 +1,8 @@
-SW2099-Weathered_Wood_v1_w217_P.pak
+SW2099-Weathered_Wood_v1_w219_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.28.147909 (Week: 217)
+Compatible with Icarus Version: Rev. 2.3.30.148457 (Week: 219)
 
 ## Description:
 - Changes the Interior Wood in the Game to a Weathered Grey Look
@@ -58,6 +58,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
