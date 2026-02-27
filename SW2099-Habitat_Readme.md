@@ -1,8 +1,8 @@
-SW2099-Habitat_v1_w219_P.pak
+SW2099-Habitat_v1_w221_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.30.148457 (Week: 219)
+Compatible with Icarus Version: Rev. 2.4.1.149477 (Week: 221)
 
 ## Description:
 - Not compatible on server, YET!!! 
@@ -44,7 +44,7 @@ Usually the server settings/mods will override anything running on the local cli
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
 - Use at your own risk.
-- This mod may not be compatible with other mods, refer to the Mod Details for further mod information, and "laanp_mod_compatibility_matrix.pdf". 
+- This mod may not be compatible with other mods, refer to the Mod Details for further mod information.
 - Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w84_ in the mod file name means mod is compatible with Week 84 Icarus release.  
   The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
 - Some mods change inventory/bench/storage cabinets slot sizes, as well as slot stack sizes.  
@@ -60,6 +60,8 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
