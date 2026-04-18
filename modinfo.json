@@ -289,18 +289,6 @@
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Grappling_Hook_Readme.md"
     },
     {
-      "name": "SW2099-Bunker_Transport",
-      "author": "ShadowWolf2099",
-      "version": "1.0",
-      "compatibility": "w228",
-      "description": "Introduces a new item called `SW2099 Bunker Transport` which is craftable in the character for free. This tube system will transport you from one bunker to another of your choosing.",
-      "files": {
-        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w228/SW2099-Bunker_Transport_v1_w228_P.pak"
-      },
-      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
-      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Bunker_Transport_Readme.md"
-    },
-    {
       "name": "SW2099-Bunker",
       "author": "ShadowWolf2099",
       "version": "1.0",
@@ -311,6 +299,18 @@
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Bunker_Readme.md"
+    },
+    {
+      "name": "SW2099-Water_Electric_Panel",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w228",
+      "description": "Introduces a new item called `SW2099 SW2099 Water Electric Panel` which is craftable in the character inventory and provides a water flow connection for your base.",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w228/SW2099-Water_Electric_Panel_v1_w228_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/ShadowWolf2099.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Water_Electric_Panel_Readme.md"
     }
   ]
 }
