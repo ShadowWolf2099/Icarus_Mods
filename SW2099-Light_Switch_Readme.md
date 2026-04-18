@@ -1,8 +1,8 @@
-SW2099-Light_Switch_v1_w226_P.pak
+SW2099-Light_Switch_v1_w228_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.4.150844 (Week: 226)
+Compatible with Icarus Version: Rev. 3.0.6.151150 (Week: 228)
 
 ## Description:
 - SW2099 Light Switch 1-Powered Electrical Switch and 1-Wall/Floor Torch Switch
@@ -61,6 +61,8 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
