@@ -1,8 +1,8 @@
-SW2099-Habitat_v1_w226_P.pak
+SW2099-Habitat_v1_w228_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.4.150844 (Week: 226)
+Compatible with Icarus Version: Rev. 3.0.6.151150 (Week: 228)
 
 ## Description:
 - Not compatible on server, YET!!! 
@@ -60,6 +60,8 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
