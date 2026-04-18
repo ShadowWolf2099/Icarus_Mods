@@ -131,10 +131,12 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ### SW2099-Grappling_Hook_v1_w228_P.pak
 - This mod provides the tools for a grappling hook
 
-### SW2099-Bunker_Transport_v1_w228_P.pak
-### SW2099-Bunker_Transport_v1_w228_P.pak
 ### SW2099-Bunker_v1_w228_P.pak
 - Underground Bunker System
+
+### SW2099-Water_Electric_Panel_v1_w228_P.pak
+- Connects to any existing Water network providing a 25,000 flow rate for unlimited water with no electricity required.
+- Connects to any existing Power network providing a 25,000 electric rate for power when needed.
 -------------------------------------------------------------------------------
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
