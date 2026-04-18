@@ -1,8 +1,8 @@
-SW2099-Thatch_Wood_Glass_Stability_v1_w226_P.pak
+SW2099-Thatch_Wood_Glass_Stability_v1_w228_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.4.150844 (Week: 226)
+Compatible with Icarus Version: Rev. 3.0.6.151150 (Week: 228)
 
 ## Description:
 - Icrease the stability of Thatch, Wood, and Glass
@@ -60,6 +60,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
