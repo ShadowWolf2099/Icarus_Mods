@@ -1,8 +1,8 @@
-SW2099-Steel_Bundle_v1_w237_P.pak
+SW2099-Steel_Bundle_v1_w238_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.15.153056 (Week: 237)
+Compatible with Icarus Version: Rev. 3.0.16.153192 (Week: 238)
 
 ## Description:
 - SW2099 Steel Bundle
@@ -60,6 +60,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
