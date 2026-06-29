@@ -119,6 +119,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Connects to any existing Water network providing a 25,000 flow rate for unlimited water with no electricity required.
 - Connects to any existing Power network providing a 25,000 electric rate for power when needed.
 
+### SW2099-Portals_v1_w238_P.pak
 - Compatible with: Single Player Only
 - Left click under the cursor to lay down the orange portal 
 - Right click under the cursor to lay down the blue portal.
