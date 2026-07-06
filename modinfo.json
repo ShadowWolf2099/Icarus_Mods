@@ -323,6 +323,18 @@
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Portals.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Portals_Readme.md"
+    },
+    {
+      "name": "SW2099-Quantum_Freight_Network",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w239",
+      "description": "This is a Single Pyayer Mod Only! Drop A Terminal Drop A Base",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w239/SW2099-Quantum_Freight_Network_v1_w239_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Quantum_Freight_Network.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Quantum_Freight_Network_Readme.md"
     }
   ]
 }
