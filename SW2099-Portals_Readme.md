@@ -1,11 +1,11 @@
-SW2099-Portals_v1_w236_P.pak
+SW2099-Portals_v1_w239_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.14.152723 (Week: 236)
+Compatible with Icarus Version: Rev. 3.0.17.153756 (Week: 239)
 
 ## Description:
-This is a Single PLayer Mod Only!!
+This is a Single Player Mod Only!!
 Portals In Icarus. What!!!
 
 ## Mod Details:
@@ -62,6 +62,12 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
 
 
 
