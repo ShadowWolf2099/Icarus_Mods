@@ -145,6 +145,9 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Each portal has a live feed from the each others portals.
 - Portal on dude!!!
 
+### SW2099-Quantum_Freight_Network_v1_w239_P.pak
+- Drop a Terminal
+- Drop a Base
 -------------------------------------------------------------------------------
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
