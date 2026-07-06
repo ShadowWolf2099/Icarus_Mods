@@ -83,7 +83,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Option to turn all torches from flame to Orb at one time.
 - Will work on single player or server. (On server each person can control the lighting seperatly.)
 
-### SW2099-Modules_v1_w239_P.pak
+### SW2099-Prospector_Dan_v1_w239_P.pak
 - MOD was develop for Prospector Dan and his journeys as first cohort.
 - Item_Dans_Smoke_Grenade
 - Item_Dans_Animal_Frenzy_Grenade
