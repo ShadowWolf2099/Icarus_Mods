@@ -131,8 +131,6 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ### SW2099-Grappling_Hook_v1_w240_P.pak
 - This mod provides the tools for a grappling hook
 
-### SW2099-Bunker_Transport_v1_w238_P.pak
-### SW2099-Bunker_Transport_v1_w238_P.pak
 ### SW2099-Bunker_v1_w240_P.pak
 - Underground Bunker System
 
