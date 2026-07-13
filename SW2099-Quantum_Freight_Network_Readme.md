@@ -1,8 +1,8 @@
-SW2099-Quantum_Freight_Network_v1_w239_P.pak
+SW2099-Quantum_Freight_Network_v1_w240_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.17.153756 (Week: 239)
+Compatible with Icarus Version: Rev. 3.0.18.154111 (Week: 240)
 
 ## Description:
 Introduces a new item called `SW2099-Quantum_Freight_Network`
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
