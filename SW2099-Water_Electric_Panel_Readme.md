@@ -1,14 +1,16 @@
-SW2099-Powered_Electric_Timer_v1_w243_P.pak
+SW2099-Water_Electric_Panel_v1_w243_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 3.0.21.155391 (Week: 243)
 
 ## Description:
-- SW2099 Powered Electric Timer 1-Powered Electrical Switch that can be set with on and off with 2 timers
+Introduces a new item called `SW2099 SW2099 Water Electric Panel` which is craftable in the character inventory and provides a water flow connection for your base.
  
 ## Mod Details:
- Digital Timer that allows the user to set 2 time settings that turns the powered timer on and off.
+- Connects to any existing Water network providing a 25,000 flow rate for unlimited water with no electricity required.
+- Connects to any existing Power network providing a 25,000 electric rate for power when needed.
+
 
 ## Installation Details
 
@@ -48,15 +50,70 @@ Usually the server settings/mods will override anything running on the local cli
   If you have a prospect with these mods running, and had filled extra slot capacities in your inventory/bench/storage cabinets, be warned that loading this prospect without the mods will result in some lost material and resources. 
 - Feel free to drop me any ideas for mod changes/suggestions, or custom mod requests.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
-- Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
-   and make sure you acknowledge credit to any contributing modders.
 
-How To Contact Me:
--------------------
+## How To Contact Me:
+
 - Discord: shadowwolf2099
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

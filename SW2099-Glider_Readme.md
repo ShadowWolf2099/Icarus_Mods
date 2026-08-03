@@ -1,8 +1,8 @@
-SW2099-Glider_v1_w240_P.pak
+SW2099-Glider_v1_w243_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.18.154111 (Week: 240)
+Compatible with Icarus Version: Rev. 3.0.21.155391 (Week: 243)
 
 ## Description:
 - A personal Glider to help you traverse those steep mountains in Icarus
@@ -58,6 +58,8 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
