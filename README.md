@@ -153,6 +153,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Left Click for Night Vision
 - Right Click for Thermal Vision
 
+### SW2099-Pelt_Bench_v1_w245_P.pak
+- New Pelt Bench
+- New Pelt Frames
+- Using the Taxidermy Knife you now get Pelts from several animals
+- Frames will give you rugs
+- Rugs Give you comfort
+
 -------------------------------------------------------------------------------
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
@@ -165,6 +172,8 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+
+
 
 
 
