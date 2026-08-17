@@ -347,6 +347,18 @@
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Tactical_Optics.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Tactical_Optics_Readme.md"
+    },
+    {
+      "name": "SW2099-Pelt_Bench",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w245",
+      "description": "Pelt Bench",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w245/SW2099-Pelt_Bench_v1_w245_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Pelt_Bench.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Pelt_Bench_Readme.md"
     }
   ]
 }
