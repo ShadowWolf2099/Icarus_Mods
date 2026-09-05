@@ -1,8 +1,8 @@
-SW2099-Pelt_Bench_v1_w245_P.pak
+SW2099-Pelt_Bench_v1_w248_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.23.155919 (Week: 245)
+Compatible with Icarus Version: Rev. 3.0.26.156677 (Week: 248)
 
 ## Description:
 Introduces a new item called `SW2099-Pelt Bench`
@@ -12,7 +12,6 @@ Introduces a new item called `SW2099-Pelt Bench`
 - New Pelt Frames
 - Using the Taxidermy Knife you now get Pelts from several animals
 - Frames will give you rugs
-- Rugs Give you comfort
 
 
 ## Installation Details
@@ -60,6 +59,10 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
