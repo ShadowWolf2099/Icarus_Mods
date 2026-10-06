@@ -1,21 +1,18 @@
-SW2099-Ranger_Station_Buildable_v1_w252_P.pak
+SW2099-Bodycam_v1_w252_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
 
 ## Description:
-Fast travel Ranger Station Buildable with the ability to fly like Superman from station to station.
+This is a Single Player Mod Only!!
+Bodycam 
 
 ## Mod Details:
-- This is a Single Player MOD Only, Not supported on Hosted or Dedicated Server.
-- New craftable item at the Character level for Free, called "SW2099's Ranger Station"
-- Hit "R" Key for build variations.
-- Point the cursor at any Ranger Station and the: 
-  - Left Mouse Button - Fly to the top of the Ranger Station
-  - Right Mouse Button - Fly to the bottom of the Ranger Station
-
-
+- Compatible with: Single Player Only
+- Left click to activate the bodycam
+- Right Click to active bodycam light
+- Blood Splatter appears when being attacked for 3 seconds or until player no longer takes damage.
 
 ## Installation Details
 
@@ -55,98 +52,15 @@ Usually the server settings/mods will override anything running on the local cli
   If you have a prospect with these mods running, and had filled extra slot capacities in your inventory/bench/storage cabinets, be warned that loading this prospect without the mods will result in some lost material and resources. 
 - Feel free to drop me any ideas for mod changes/suggestions, or custom mod requests.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+- Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
+   and make sure you acknowledge credit to any contributing modders.
 
-## How To Contact Me:
-
+How To Contact Me:
+-------------------
 - Discord: shadowwolf2099
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

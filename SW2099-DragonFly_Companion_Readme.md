@@ -1,20 +1,22 @@
-SW2099-Ranger_Station_Buildable_v1_w252_P.pak
+SW2099-DragonFly_Companion_v1_w252_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
 
 ## Description:
-Fast travel Ranger Station Buildable with the ability to fly like Superman from station to station.
+An animated DragonFly Companion that follows you wherever you go and provides extra storage for carrying supplies and items.
 
 ## Mod Details:
-- This is a Single Player MOD Only, Not supported on Hosted or Dedicated Server.
-- New craftable item at the Character level for Free, called "SW2099's Ranger Station"
-- Hit "R" Key for build variations.
-- Point the cursor at any Ranger Station and the: 
-  - Left Mouse Button - Fly to the top of the Ranger Station
-  - Right Mouse Button - Fly to the bottom of the Ranger Station
-
+- New craftable item available at the Character level for FREE, called "SW2099's DragonFly Companion".
+- Deploy multiple DragonFly Companions throughout the world.
+- DragonFlys can follow you as you travel around Icarus.
+- Provides additional storage for carrying extra supplies and items.
+- Features custom ground, takeoff, flying, and hovering animations.
+- F5 – STOP: Point at an individual DragonFly and press F5 to tell that DragonFly to stop and stay where it is.
+- F6 – FOLLOW: Point at an individual DragonFly and press F6 to tell that DragonFly to follow you.
+- F7 – FOLLOW ALL: Press F7 to tell all of your DragonFlys to follow you.
+- Live DragonFly Radar: Displays your DragonFlys and continuously shows their location and distance from you, making it easy to find them if they get separated from you
 
 
 ## Installation Details
@@ -62,82 +64,6 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

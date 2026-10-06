@@ -1,8 +1,8 @@
-SW2099-Benches_In_A_Bag_v1_w248_P.pak
+SW2099-Benches_In_A_Bag_v1_w252_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.26.156677 (Week: 248)
+Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
 
 ## Description:
 Deployable Scaled Down Benches For Tight Spaces. All Benches Are Working And Should Suit Your Needs.
@@ -65,6 +65,12 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
 
 
 

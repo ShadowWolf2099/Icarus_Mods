@@ -1,8 +1,8 @@
-SW2099-Portals_v1_w249_P.pak
+SW2099-Portals_v1_w252_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.27.157242 (Week: 249)
+Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
 
 ## Description:
 This is a Single Player Mod Only!!
@@ -62,6 +62,10 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
