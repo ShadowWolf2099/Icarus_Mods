@@ -1,6 +1,6 @@
 ShadowWolf2099 Mods
 
-Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
+Compatible with Icarus Version: Rev. 3.0.31.158478 (Week: 253)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: Below will be listed the various mods and a description of what they adjust. 
