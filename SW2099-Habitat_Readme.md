@@ -1,8 +1,8 @@
-SW2099-Habitat_v1_w236_P.pak
+SW2099-Habitat_v1_w253_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.14.152723 (Week: 236)
+Compatible with Icarus Version: Rev. 3.0.31.158478 (Week: 253)
 
 ## Description:
 - Not compatible on server, YET!!! 
