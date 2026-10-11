@@ -371,6 +371,30 @@
       },
       "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Bodycam.png",
       "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Bodycam_Readme.md"
+    },
+    {
+      "name": "SW2099-Habitat",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w253",
+      "description": "- Buildable Habitat. Not compatible on server, YET! Place CustomAudio_P.pak in the mods folder to hear the custom sounds",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w253/SW2099-Habitat_v1_w253_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Habitat.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Habitat_Readme.md"
+    },
+    {
+      "name": "SW2099-Nuclear_Reactor",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w253",
+      "description": "- A compact Nuclear Reactor generator with no worries of radiation! Generates 100,000 power",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w253/SW2099-Nuclear_Reactor_v1_w253_P.pak"
+      },
+      "imageURL": "https://github.com/ShadowWolf2099/Icarus_Mods/blob/main/SW2099-Nuclear_Reactor.png",
+      "readmeURL": "https://github.com/ShadowWolf2099/Icarus_Mods/raw/main/SW2099-Nuclear_Reactor_Readme.md"
     }
   ]
 }
