@@ -113,6 +113,11 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - 1-Powered Electrical Switch
 - 1-Wall/Floor Torch Switch
 
+### SW2099-Nuclear_Reactor_v1_w253_P.pak
+- New craftable Deployable at the Character level for Free, called "SW2099's Nuclear Reactor"
+- A compact Nuclear Reactor generator with no worries of radiation!
+- Generates 100,000 power, with an On/Off toggle
+
 ### SW2099-Creature_Deterrent_v1_w253_P.pak
 - ShadowWolf2099 Creature Deterrent Statue
 
