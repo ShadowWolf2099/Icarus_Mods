@@ -1,8 +1,8 @@
-SW2099-Water_Electric_Panel_v1_w252_P.pak
+SW2099-Water_Electric_Panel_v1_w253_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
+Compatible with Icarus Version: Rev. 3.0.31.158478 (Week: 253)
 
 ## Description:
 Introduces a new item called `SW2099 SW2099 Water Electric Panel` which is craftable in the character inventory and provides a water flow connection for your base.
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
