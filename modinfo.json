@@ -315,7 +315,7 @@
     {
       "name": "SW2099-Quantum_Freight_Network",
       "author": "ShadowWolf2099",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "w253",
       "description": "Introduces a new item called `SW2099-Quantum_Freight_Network`",
       "files": {
@@ -398,4 +398,3 @@
     }
   ]
 }
-
