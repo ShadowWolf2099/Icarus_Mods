@@ -1,8 +1,8 @@
-SW2099-Prospector_Dan_v1_w255_P.pak
+SW2099-Prospector_Dan_v1_w256_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.33.159137 (Week: 255)
+Compatible with Icarus Version: Rev. 3.0.34.159385 (Week: 256)
 
 ## Description:
 - MOD was develop for Prospector Dan and his journeys as first cohort.
@@ -61,6 +61,8 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 
