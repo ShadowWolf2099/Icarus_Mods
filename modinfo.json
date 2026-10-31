@@ -395,6 +395,18 @@
       },
       "imageURL": "https://raw.githubusercontent.com/ShadowWolf2099/Icarus_Mods/main/SW2099-Nuclear_Reactor.png",
       "readmeURL": "https://raw.githubusercontent.com/ShadowWolf2099/Icarus_Mods/main/SW2099-Nuclear_Reactor_Readme.md"
+    },
+    {
+      "name": "SW2099-Vampire_Sky",
+      "author": "ShadowWolf2099",
+      "version": "1.0",
+      "compatibility": "w256",
+      "description": "Blood-red skies over the volcanic lands at night, a brighter Wood Torch, and a Bowl of Blood - made for vampire play (pairs with the laanp-Vampire coffin mod, but works on its own).",
+      "files": {
+        "pak": "https://github.com/ShadowWolf2099/Icarus_Mods/releases/download/v1_w256/SW2099-Vampire_Sky_v1_w256_P.pak"
+      },
+      "imageURL": "https://raw.githubusercontent.com/ShadowWolf2099/Icarus_Mods/main/SW2099-Vampire_Sky.png",
+      "readmeURL": "https://raw.githubusercontent.com/ShadowWolf2099/Icarus_Mods/main/SW2099-Vampire_Sky_Readme.md"
     }
   ]
 }

@@ -182,6 +182,16 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Right Click to active bodycam light
 - Blood Splatter appears when being attacked for 3 seconds or until player no longer takes damage.
 
+### SW2099-Vampire_Sky_v1_w256_P.pak
+- Red night sky: blood-red fog from 18:30 to 6:30 (game clock) in every volcanic area - Prometheus lava fields, Elysium volcanic areas and the lava outpost
+- The red fades out between 6:30 and 7:00 (a warning before sunrise) and back in between 18:00 and 18:30; the normal volcanic haze by day
+- Storms cover the red sky while they last
+- Brighter Wood Torch: white light that reaches about 100 m - lights up caves and the night
+- Bowl of Blood: craft from 2 Bone + 3 Raw Meat in your inventory crafting menu
+- Bowl of Blood: +25 health, then Blood Shield for 5 minutes: +200 health per minute, 75 fire resistance, +50% movement speed, -100% stamina used by actions, -100% water use, +36 cooling per minute
+- An emergency drink for a vampire caught in daylight
+- The red sky and the torch replace the game's own Volcanic fog and Wood Torch files - other mods that change those same files will clash with this one
+
 -------------------------------------------------------------------------------
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
