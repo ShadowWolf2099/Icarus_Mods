@@ -190,9 +190,6 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Bowl of Blood: craft from 2 Bone + 3 Raw Meat in your inventory crafting menu
 - Bowl of Blood: +25 health, then Blood Shield for 5 minutes: +200 health per minute, 75 fire resistance, +50% movement speed, -100% stamina used by actions, -100% water use, +36 cooling per minute
 - An emergency drink for a vampire caught in daylight
-- Vampire Vision: unlock in the Tech Tree (Tier 1, needs level 10), then craft it free in your inventory
-- Vampire Vision: left click to turn it on, right click to turn it off
-- No Cave Sickness: a vampire sleeps in caves without getting sick
 - The red sky and the torch replace the game's own Volcanic fog and Wood Torch files - other mods that change those same files will clash with this one
 
 -------------------------------------------------------------------------------
