@@ -1,11 +1,11 @@
 SW2099-Vampire_Sky_v1_w256_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 1.1
 
 Compatible with Icarus Version: Rev. 3.0.34.159385 (Week: 256)
 
 ## Description:
-Blood-red skies over the volcanic lands at night, a brighter Wood Torch, and a Bowl of Blood - made for vampire play (pairs with the laanp-Vampire coffin mod, but works on its own).
+Blood-red skies over the volcanic lands at night, a brighter Wood Torch, a Bowl of Blood and Vampire Vision - made for vampire play (pairs with the laanp-Vampire coffin mod, but works on its own).
 
 ## Mod Details:
 - Red night sky: blood-red fog from 18:30 to 6:30 (game clock) in every volcanic area - Prometheus lava fields, Elysium volcanic areas and the lava outpost
@@ -15,6 +15,12 @@ Blood-red skies over the volcanic lands at night, a brighter Wood Torch, and a B
 - Bowl of Blood: craft from 2 Bone + 3 Raw Meat in your inventory crafting menu
 - Bowl of Blood: +25 health, then Blood Shield for 5 minutes: +200 health per minute, 75 fire resistance, +50% movement speed, -100% stamina used by actions, -100% water use, +36 cooling per minute
 - An emergency drink for a vampire caught in daylight
+- Vampire Vision: unlock in the Tech Tree (Tier 1, needs level 10), then craft it free in your inventory
+- Vampire Vision: left click turns it on and off
+- Vampire Vision II: unlock next to it in the Tech Tree (needs level 20), then craft it free in your inventory
+- Vampire Vision II: left click for the vision, right click is a Vampire Dash: you fly fast the way you are looking (look up to reach a ledge), every 2 seconds, with a red zoom blur at the edges of your view and no damage until you land
+- No Cave Sickness: a vampire sleeps in caves without getting sick
+- No Underground debuff: no -50% health regen or -33% stamina in caves
 - The red sky and the torch replace the game's own Volcanic fog and Wood Torch files - other mods that change those same files will clash with this one
 
 
