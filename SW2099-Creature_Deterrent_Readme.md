@@ -1,8 +1,8 @@
-SW2099-Creature_Deterrent_v1_w256_P.pak
+SW2099-Creature_Deterrent_v1_w257_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.34.159385 (Week: 256)
+Compatible with Icarus Version: Rev. 3.0.35.159586 (Week: 257)
 
 ## Description:
 ShadowWolf2099 Creature Deterrent Statue
@@ -64,6 +64,8 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099) 
 
 Enjoy Prospectors!
+
+
 
 
 

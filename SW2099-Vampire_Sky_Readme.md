@@ -1,8 +1,8 @@
-SW2099-Vampire_Sky_v1_w256_P.pak
+SW2099-Vampire_Sky_v1_w257_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1.1
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.34.159385 (Week: 256)
+Compatible with Icarus Version: Rev. 3.0.35.159586 (Week: 257)
 
 ## Description:
 Blood-red skies over the volcanic lands at night, a brighter Wood Torch, a Bowl of Blood and Vampire Vision - made for vampire play (pairs with the laanp-Vampire coffin mod, but works on its own).
@@ -71,3 +71,5 @@ How To Contact Me:
 - Youtube Channel: [Icarus - ShadowWolf2099](https://www.youtube.com/@Icarus-ShadowWolf2099)
 
 Enjoy Prospectors!
+
+
